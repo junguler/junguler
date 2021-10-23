@@ -1,4 +1,4 @@
-![profile](profile+.gif)
+![profile](profile.gif)
 
 [![junguler's github trophies](https://github-profile-trophy.vercel.app/?username=junguler&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
