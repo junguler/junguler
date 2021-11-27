@@ -1,6 +1,7 @@
 
 | ![j](+/j.gif) | ![u](+/u.gif) | ![n](+/n.gif) | ![g](+/g.gif) | ![u2](+/u2.gif) | ![l](+/l.gif) | ![e](+/e.gif) | ![r](+/r.gif) |
 |---|---|---|---|---|---|---|---|
+<!---
 
 ![0](https://user-images.githubusercontent.com/59083599/143682817-c3ff97a4-b320-4ca6-8b52-64ddd11e30c6.jpg)
 ![1](https://user-images.githubusercontent.com/59083599/143682820-a2a327dd-e3f1-4073-aba7-3ad1d1133cd2.jpg)
@@ -65,9 +66,6 @@
 ![z](https://user-images.githubusercontent.com/59083599/143682913-6a8dc119-4350-48f7-a1ef-a1e95dace73f.jpg)
 ![Z](https://user-images.githubusercontent.com/59083599/143682914-3f0d42b0-5bc2-4400-a335-2005e4fe1b0a.jpg)
 
-
-
-<!---
 | ![j2](+/j2.gif) | ![u+](+/u+.gif) | ![n2](+/n2.gif) | ![g2](+/g2.gif) | ![u2+](+/u2+.gif) | ![l2](+/l2.gif) | ![e3](+/e3.gif) | ![r2](+/r2.gif) |
 
 
