@@ -1,4 +1,4 @@
-![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-J.gif) ![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-U.gif) ![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-N.gif) ![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-G.gif) ![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-U.gif) ![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-L.gif) ![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-E.gif) ![](https://github.com/junguler/_dork-char-anima/blob/main/gifs/h-bw-inv/B-H-R.gif)
+![](+2/B-H-H.gif) ![](+2/B-H-E.gif) ![](+2/B-H-L.gif) ![](+2/B-H-L.gif) ![](+2/B-H-O.gif) ![](+2/B-V-5C.gif) ![](+2/B-V-W.gif) ![](+2/B-V-O.gif) ![](+2/B-V-R.gif) ![](+2/B-V-L.gif) ![](+2/B-V-D.gif)
 
 
 <!---
