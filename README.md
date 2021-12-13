@@ -1,4 +1,4 @@
-| ![](+2/B-H-H.gif) ![](+2/B-H-e.gif) ![](+2/B-H-l.gif) ![](+2/B-H-l.gif) ![](+2/B-H-o.gif) | ![](+2/B-H-W.gif) ![](+2/B-H-o.gif) ![](+2/B-H-r.gif) ![](+2/B-H-l.gif) ![](+2/B-H-d.gif) |
+| ![](+/H.gif) ![](+/e.gif) ![](+/l.gif) ![](+/l.gif) ![](+/o.gif) | ![](+/W.gif) ![](+/o.gif) ![](+/r.gif) ![](+/l.gif) ![](+/d.gif) |
 |--|--|
 
 <!---
