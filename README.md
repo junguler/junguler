@@ -1,4 +1,4 @@
-<img src="hello-world.svg" width="600">
+<img src="hello-world.svg" width="800">
 
 <!---
 | ![](++/H1.gif) ![](++/E1.gif) ![](++/L1.gif) ![](++/L1x2.gif) ![](++/O1.gif) | ![](++/W2.gif) ![](++/O2.gif) ![](++/R2.gif) ![](++/L2.gif) ![](++/D2.gif) |
