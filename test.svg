@@ -1,0 +1,52 @@
+<svg fill="none" viewBox="0 0 650 100" width="650" height="100" xmlns="http://www.w3.org/2000/svg">
+
+<foreignObject width="100%" height="100%">
+
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+<style>
+
+@keyframes animate {
+0% {
+filter: hue-rotate(360deg);
+}
+100% {
+filter: hue-rotate(0deg);
+}
+}
+
+.container {
+display: flex;
+align-items: center;
+justify-content: center;
+<!-- margin: 0; -->
+<!-- width: 100%; -->
+height: 100px;
+background: #222;
+<!-- text-align: center; -->
+}
+
+p {
+font-size: 75px;
+<!-- line-height: 1.3; -->
+letter-spacing: 5px;
+<!-- background-size: 100%; -->
+background-image: linear-gradient(to right, cyan, magenta, yellow);
+background-clip: text;
+color: transparent;
+animation: animate linear 5s infinite ;
+}
+
+<!-- alternate -->
+
+</style>
+
+<div class="container">
+<p>HELLO WORLD</p>
+</div>
+
+</div>
+
+</foreignObject>
+
+</svg>
