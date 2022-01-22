@@ -13,7 +13,7 @@ filter: hue-rotate(0deg);}
 
 path {
 fill: url(#grad);
-animation: animate linear 5s infinite ;
+animation: animate ease 5s infinite ;
 }
 
 </style>
