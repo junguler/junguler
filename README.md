@@ -1,1 +1,1 @@
-<img src="hello-world.svg" width="800">
+<img src="hello-world.svg" width="1000">
