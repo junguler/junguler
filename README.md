@@ -3,5 +3,5 @@
 </div>
 <br>
 <div align="center">
-<img src="salam-donya.svg" width="450">
+<img src="salam-donya.svg" width="400">
 </div>
