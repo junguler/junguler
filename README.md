@@ -9,6 +9,6 @@
 <br>
 <div align="center">
 
-need another language svg? [go here](https://github.com/junguler/hello-world-animated-svgs)
+need Hello World in other languages? [go here](https://github.com/junguler/hello-world-animated-svgs)
 
 </div>
