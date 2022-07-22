@@ -1,12 +1,12 @@
 <svg width="23.202mm" height="3.5713mm" version="1.1" viewBox="0 0 23.202 3.5713" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <linearGradient id="b" x1="34.826" x2="54.822" y1="133.13" y2="133.13" gradientUnits="userSpaceOnUse">
-<stop stop-color="#0ff" offset="0"/>
-<stop stop-color="#ff0" offset="1"/>
-</linearGradient>
-<linearGradient id="a" x1="33.223" x2="56.426" y1="133.13" y2="133.13" gradientUnits="userSpaceOnUse">
 <stop stop-color="#ff0" offset="0"/>
 <stop stop-color="#0ff" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="33.223" x2="56.426" y1="133.13" y2="133.13" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0ff" offset="0"/>
+<stop stop-color="#ff0" offset="1"/>
 </linearGradient>
 </defs>
 <g transform="translate(-33.223 -131.35)">
