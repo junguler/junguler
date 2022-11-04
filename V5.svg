@@ -22,7 +22,7 @@ filter: hue-rotate(360deg);
 fill: #fff}
 }
 path {
-animation: animate linear 1s infinite alternate ;
+animation: animate linear 2.5s infinite alternate ;
 }
 </style>
  
