@@ -9,7 +9,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: run commands
-        run: ./color.sh
+        run: chmod +x ./color.sh ; ./color.sh
 
       - name: add & commit
         uses: EndBug/add-and-commit@main
