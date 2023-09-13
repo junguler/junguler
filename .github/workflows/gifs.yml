@@ -1,0 +1,29 @@
+name: things
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  create-animated-gifs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@main
+
+      - name: stuff
+        run: |
+          sudo apt install ghostscript
+          DQT='"'
+          SRC="rights=${DQT}none${DQT} pattern=${DQT}PDF${DQT}"
+          RPL="rights=${DQT}read|write${DQT} pattern=${DQT}PDF${DQT}"
+          sudo sed -i "s/$SRC/$RPL/" /etc/ImageMagick-6/policy.xml
+          chmod +x ./colors.sh
+          ./colors.sh
+          chmod +x ./table.sh
+          ./table.sh
+          git config --local user.email "action[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "$((1000 + RANDOM % 9000))-$((1000 + RANDOM % 9000))-$((1000 + RANDOM % 9000))"
+          git push
