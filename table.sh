@@ -1,15 +1,16 @@
-items=($(ls *.gif | shuf))
+#!/bin/bash
+
+items=($(cat <(ls *.gif) <(echo error) <(echo empty) <(echo nothing) | shuf))
 
 echo "<table>" > readme.md
 
-for ((i=0; i<64; i++)); do
-  if ((i % 8 == 0)); then
-    echo "<tr>" >> readme.md
-  fi
-  echo "<td><img src=\"${items[$i]}\"></td>" >> readme.md
-  if ((i % 8 == 7)); then
-    echo "</tr>" >> readme.md
-  fi
+for ((i=0; i<8; i++)); do
+  echo "<tr>" >> readme.md
+  for ((j=0; j<12; j++)); do
+    index=$((i*12+j))
+    echo "<td><img src=\"${items[$index]}\"></td>" >> readme.md
+  done
+  echo "</tr>" >> readme.md
 done
 
 echo "</table>" >> readme.md

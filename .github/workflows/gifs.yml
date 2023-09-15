@@ -13,7 +13,7 @@ jobs:
 
       - name: stuff
         run: |
-          sudo apt install ghostscript
+          sudo apt install ghostscript zsh
           DQT='"'
           SRC="rights=${DQT}none${DQT} pattern=${DQT}PDF${DQT}"
           RPL="rights=${DQT}read|write${DQT} pattern=${DQT}PDF${DQT}"
