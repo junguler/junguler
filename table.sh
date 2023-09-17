@@ -1,6 +1,6 @@
 #!/bin/bash
 
-items=($(cat <(ls *.gif) <(echo error) <(echo empty) <(echo nothing) | shuf))
+items=($(ls *.gif | shuf))
 
 echo "<table>" > readme.md
 
