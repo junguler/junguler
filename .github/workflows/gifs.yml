@@ -2,7 +2,7 @@ name: things
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   create-animated-gifs:
