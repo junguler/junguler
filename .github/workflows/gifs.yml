@@ -25,5 +25,5 @@ jobs:
           git config --local user.email "action[bot]@github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "$((1000 + RANDOM % 9000))-$((1000 + RANDOM % 9000))-$((1000 + RANDOM % 9000))"
+          git commit -m "$(od -An -tx1 -w12 -N12 /dev/urandom | cut -c2- | tr '[:lower:]' '[:upper:]')"
           git push
