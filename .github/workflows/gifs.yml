@@ -6,7 +6,7 @@ on:
 
 jobs:
   create-animated-gifs:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: checkout repository
         uses: actions/checkout@main
