@@ -15,7 +15,7 @@ jobs:
         run: |
           sudo apt update 
           sudo apt upgrade
-          sudo apt install ghostscript zsh
+          sudo apt install ghostscript zsh --fix-missing
           DQT='"'
           SRC="rights=${DQT}none${DQT} pattern=${DQT}PDF${DQT}"
           RPL="rights=${DQT}read|write${DQT} pattern=${DQT}PDF${DQT}"
